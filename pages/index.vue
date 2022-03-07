@@ -1,5 +1,7 @@
 <template>
-  <Tutorial/>
+<div>
+  <h1>nuxtThree</h1>
+</div>
 </template>
 
 <script>
